@@ -13,7 +13,7 @@ The course is taught by [Josef Kurka](mailto:josef.kurka@fsv.cuni.cz).
 
 Final project **deadline**: June 14, 2026 before midnight. Late submissions will be awarded **0 points**.
 
-- **Submit link to your project github repository** via Google forms [link TBD]
+- **Submit link to your project github repository** via [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSf8ndtB07skofxolr3odgFYVP2ETpnNcUzMZUWUrWdOqOISdw/viewform?usp=publish-editor)
 
 ## Information for the summer semester of 2025/2026
 
